@@ -1,0 +1,24 @@
+Site: ola Povo!
+Colégio Est. Pres. Costa e Silva
+Projeto: Mostrar as atividades realizadas pelos alunos
+Objetivo: incentivar a criatividade e conhecer a diversidade cultural.
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ola Povo!</title>
+</head>
+
+<body>
+  <p>Colégio Est. Pres. Costa e Silva</p> 
+  <p>Projeto: Mostrar as atividades realizadas pelos alunos</p>
+  <strong>Projeto</strong>
+  <p>Objetivo: incentivar a criatividade e conhecer a diversidade cultural.</p>
+  <strong>Objetivo</strong>
+</body>
+</html>
