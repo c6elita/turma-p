@@ -1,0 +1,101 @@
+body {
+    background-color: rgb(47, 161, 206);
+}
+#banner{
+    
+}
+h1 {
+    height: 130px;
+    widt: 100px %;
+    border:10px solid ;salmon
+    padding:20px;
+    margin text: 40px;
+    text-align: center;
+    background-color: rgb(65, 161, 173);
+    font-size:xx-large ;
+}
+
+
+
+h2 {
+    height: 130px;
+    widt: 100px %;
+    border:10px solid ;salmon
+    padding:20px;
+    margin text: 40px;
+    text-align: center;
+    color: rgb(168, 216, 184);
+    font-size: xx-large;
+
+}
+h3 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+h4 {
+    text-align: center;
+    color: rgb(190, 35, 190);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h5 {
+    color: rgb(13, 66, 240);
+    text-align: center;
+    font-size: larger;
+}
+
+h6 {
+    font-size: large;
+    text-align: center;
+    color:aqua
+}
+p {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+/*
+h2 {
+    text-align: right;
+    background-color: #ff0000;
+    font-size: xx-large;
+
+}
+
+
+h3 {
+    text-align: center;
+    background-color: blue;
+    font-size: medium;
+}
+
+
+h4 {
+    text-align: left;
+    color: green;
+    font-size: larger;
+}
+
+
+h5 {
+    color: #c0c;
+}
+h6 {
+    color: rgb(255, 0, 0)
+    
+}
+
+p {
+    color: rgb(200, 0, 200)
+}
+*/
